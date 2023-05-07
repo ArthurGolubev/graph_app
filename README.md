@@ -1,8 +1,7 @@
 # graph_app
-### Описание
-Хочу на практике понять, можно ли соединить Neo4j, FastAPI, Strawberry, GraphQL, Apollo Client, D3.js в одно, полнофункциональное приложение.
-Этот репозиторий - проверка концепта плюс изучение новых технологий.
 
-
-### Идеи
-Возможность создавать рабочие облати, где можно подготовить граф по определённой теме
+## TODO:
+* Изучить возможность использования GraphQL и Neo4j
+* https://neo4j.com/docs/getting-started/languages-guides/neo4j-python/
+* обдумать реализация взаимодействия с графовой базой данных
+* https://medium.com/elements/diving-into-graphql-and-neo4j-with-python-244ec39ddd94
