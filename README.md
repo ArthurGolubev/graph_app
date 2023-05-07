@@ -1,7 +1,9 @@
 # graph_app
 
 option 1: React-Redux-(suga)-FastAPI-Neo4j
+
 option 2: React-ApolloClient-FastAPI-Strawberry-Neo4j
+
 option 3: React-ApolloClient-ApolloServer-Neo4jGraphql-Neo4j
 
 ## TODO:
