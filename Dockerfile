@@ -71,10 +71,12 @@ RUN addgroup -g 1000 node \
   && npm --version
 
 
+
 WORKDIR /gra
-
 COPY . ./
-
+# WORKDIR /gra/frontend
+# RUN npm i
+WORKDIR /gra/backend
 RUN npm i
 
 CMD ["npm", "start"]
